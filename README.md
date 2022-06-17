@@ -1,6 +1,8 @@
 whatsapp_history
 ================
-A bunch of useful tools to process whatsapp history
+A bunch of useful tools to process whatsapp history.
+Initially I planned to do conversation analysis and so on, but the history provided by whatsapp is mostly lacking (does not include reply metadata for example), and it has been useful enough to just look at the messages themselves.
+You are welcome to play with it an improve it.
 
 
 Installation:

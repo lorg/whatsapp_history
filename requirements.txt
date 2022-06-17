@@ -1,0 +1,3 @@
+tqdm
+# Uncomment nltk to do the more advanced stuff... I didn't really fully developed that
+# nltk
